@@ -1,0 +1,13 @@
+Flask
+Gunicorn
+opencv-python
+numpy
+requests
+torch 
+torchvision
+scikit-image
+pandas 
+h5py
+cffi
+cython
+future
